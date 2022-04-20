@@ -12,7 +12,7 @@ public class HelloController {
 	}
 
 	@GetMapping("/Hello")
-	public String index2() {
+	public String sayHello() {
 		return "Hello for my first route!";
 	}
 
