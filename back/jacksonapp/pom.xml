@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.wcapi.back</groupId>
-	<artifactId>countryapi</artifactId>
+	<artifactId>jacksonapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>countryapi</name>
+	<name>jacksonapp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
@@ -27,7 +27,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
 	</dependencies>
 
 	<build>
