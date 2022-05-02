@@ -23,10 +23,11 @@ public class JacksonappApplication implements CommandLineRunner {
         ObjectMapper objectMapper = new ObjectMapper();
 
         //read json file and convert to customer object
-        Customer customer = objectMapper.readValue(new File("Customer.json"), Customer.class);
+        Customer[] customer = objectMapper.readValue(new File("Customer.json"), Customer[].class);
 
         //print customer details
-        System.out.println(customer);
+        System.out.println(customer[0]);
+        System.out.println(customer[1]);
     }
 
 }

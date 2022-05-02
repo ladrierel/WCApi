@@ -1,4 +1,32 @@
-{
+[
+  {
+    "id": 234,
+    "name": "Mark Doe",
+    "email": "mark@example.com",
+    "phone": "+49 111 246878",
+    "age": 55,
+    "projects": [
+      "Remote Job Board",
+      "Data Migration"
+    ],
+    "address": {
+      "street": "Market Platz .4",
+      "city": "Berlin",
+      "zipcode": 10965,
+      "country": "Germany"
+    },
+    "paymentMethods": [
+      "PayPal",
+      "Stripe"
+    ],
+    "profileInfo": {
+      "gender": "Male",
+      "married": "Yes",
+      "source": "LinkedIn"
+    }
+  },
+
+  {
     "id": 123,
     "name": "Jovan Lee",
     "email": "jovan@example.com",
@@ -24,3 +52,5 @@
       "source": "LinkedIn"
     }
   }
+
+]
