@@ -2,7 +2,7 @@
   {
     "id": 234,
     "name": "Mark Doe",
-    "email": "mark@example.com",
+    "email": "markdoe@example.com",
     "phone": "+49 111 246878",
     "age": 55,
     "projects": [
