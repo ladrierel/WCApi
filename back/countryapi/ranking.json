@@ -1,0 +1,4857 @@
+{
+    "rankings": [
+        {
+            "rankingItem": {
+                "rank": 1,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BRA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Brésil",
+                    "alt": "Brésil"
+                },
+                "name": "Brésil",
+                "totalPoints": 1832.69,
+                "active": false,
+                "previousRank": 2,
+                "countryURL": "/fifa-world-ranking/BRA",
+                "countryCode": "BRA"
+            },
+            "previousPoints": 1823.42,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 2,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BEL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Belgique",
+                    "alt": "Belgique"
+                },
+                "name": "Belgique",
+                "totalPoints": 1827,
+                "active": false,
+                "previousRank": 1,
+                "countryURL": "/fifa-world-ranking/BEL",
+                "countryCode": "BEL"
+            },
+            "previousPoints": 1828.45,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 3,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/FRA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "France",
+                    "alt": "France"
+                },
+                "name": "France",
+                "totalPoints": 1789.85,
+                "active": false,
+                "previousRank": 3,
+                "countryURL": "/fifa-world-ranking/FRA",
+                "countryCode": "FRA"
+            },
+            "previousPoints": 1786.15,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 4,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ARG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Argentine",
+                    "alt": "Argentine"
+                },
+                "name": "Argentine",
+                "totalPoints": 1765.13,
+                "active": false,
+                "previousRank": 4,
+                "countryURL": "/fifa-world-ranking/ARG",
+                "countryCode": "ARG"
+            },
+            "previousPoints": 1766.99,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 5,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ENG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Angleterre",
+                    "alt": "Angleterre"
+                },
+                "name": "Angleterre",
+                "totalPoints": 1761.71,
+                "active": false,
+                "previousRank": 5,
+                "countryURL": "/fifa-world-ranking/ENG",
+                "countryCode": "ENG"
+            },
+            "previousPoints": 1755.52,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 6,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ITA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Italie",
+                    "alt": "Italie"
+                },
+                "name": "Italie",
+                "totalPoints": 1723.31,
+                "active": false,
+                "previousRank": 6,
+                "countryURL": "/fifa-world-ranking/ITA",
+                "countryCode": "ITA"
+            },
+            "previousPoints": 1740.77,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 7,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ESP",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Espagne",
+                    "alt": "Espagne"
+                },
+                "name": "Espagne",
+                "totalPoints": 1709.19,
+                "active": false,
+                "previousRank": 7,
+                "countryURL": "/fifa-world-ranking/ESP",
+                "countryCode": "ESP"
+            },
+            "previousPoints": 1704.75,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 8,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/POR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Portugal",
+                    "alt": "Portugal"
+                },
+                "name": "Portugal",
+                "totalPoints": 1674.78,
+                "active": false,
+                "previousRank": 8,
+                "countryURL": "/fifa-world-ranking/POR",
+                "countryCode": "POR"
+            },
+            "previousPoints": 1660.25,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 9,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MEX",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Mexique",
+                    "alt": "Mexique"
+                },
+                "name": "Mexique",
+                "totalPoints": 1658.82,
+                "active": false,
+                "previousRank": 12,
+                "countryURL": "/fifa-world-ranking/MEX",
+                "countryCode": "MEX"
+            },
+            "previousPoints": 1647.9,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 10,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NED",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Pays-Bas",
+                    "alt": "Pays-Bas"
+                },
+                "name": "Pays-Bas",
+                "totalPoints": 1658.66,
+                "active": false,
+                "previousRank": 10,
+                "countryURL": "/fifa-world-ranking/NED",
+                "countryCode": "NED"
+            },
+            "previousPoints": 1653.73,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 11,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/DEN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Danemark",
+                    "alt": "Danemark"
+                },
+                "name": "Danemark",
+                "totalPoints": 1653.6,
+                "active": false,
+                "previousRank": 9,
+                "countryURL": "/fifa-world-ranking/DEN",
+                "countryCode": "DEN"
+            },
+            "previousPoints": 1654.54,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 12,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GER",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Allemagne",
+                    "alt": "Allemagne"
+                },
+                "name": "Allemagne",
+                "totalPoints": 1650.53,
+                "active": false,
+                "previousRank": 11,
+                "countryURL": "/fifa-world-ranking/GER",
+                "countryCode": "GER"
+            },
+            "previousPoints": 1648.33,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 13,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/URU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Uruguay",
+                    "alt": "Uruguay"
+                },
+                "name": "Uruguay",
+                "totalPoints": 1635.73,
+                "active": false,
+                "previousRank": 16,
+                "countryURL": "/fifa-world-ranking/URU",
+                "countryCode": "URU"
+            },
+            "previousPoints": 1614.05,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 14,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SUI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Suisse",
+                    "alt": "Suisse"
+                },
+                "name": "Suisse",
+                "totalPoints": 1635.32,
+                "active": false,
+                "previousRank": 14,
+                "countryURL": "/fifa-world-ranking/SUI",
+                "countryCode": "SUI"
+            },
+            "previousPoints": 1642.83,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 15,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/USA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "USA",
+                    "alt": "USA"
+                },
+                "name": "USA",
+                "totalPoints": 1633.72,
+                "active": false,
+                "previousRank": 13,
+                "countryURL": "/fifa-world-ranking/USA",
+                "countryCode": "USA"
+            },
+            "previousPoints": 1643.34,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 16,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CRO",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Croatie",
+                    "alt": "Croatie"
+                },
+                "name": "Croatie",
+                "totalPoints": 1621.11,
+                "active": false,
+                "previousRank": 15,
+                "countryURL": "/fifa-world-ranking/CRO",
+                "countryCode": "CRO"
+            },
+            "previousPoints": 1620.74,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 17,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/COL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Colombie",
+                    "alt": "Colombie"
+                },
+                "name": "Colombie",
+                "totalPoints": 1600.52,
+                "active": false,
+                "previousRank": 19,
+                "countryURL": "/fifa-world-ranking/COL",
+                "countryCode": "COL"
+            },
+            "previousPoints": 1585.89,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 18,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/WAL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Pays de Galles",
+                    "alt": "Pays de Galles"
+                },
+                "name": "Pays de Galles",
+                "totalPoints": 1588.08,
+                "active": false,
+                "previousRank": 20,
+                "countryURL": "/fifa-world-ranking/WAL",
+                "countryCode": "WAL"
+            },
+            "previousPoints": 1578.01,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 19,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SWE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Suède",
+                    "alt": "Suède"
+                },
+                "name": "Suède",
+                "totalPoints": 1584.77,
+                "active": false,
+                "previousRank": 17,
+                "countryURL": "/fifa-world-ranking/SWE",
+                "countryCode": "SWE"
+            },
+            "previousPoints": 1588.26,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 20,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SEN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Sénégal",
+                    "alt": "Sénégal"
+                },
+                "name": "Sénégal",
+                "totalPoints": 1584.16,
+                "active": false,
+                "previousRank": 18,
+                "countryURL": "/fifa-world-ranking/SEN",
+                "countryCode": "SEN"
+            },
+            "previousPoints": 1587.78,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 21,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/IRN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "RI Iran",
+                    "alt": "RI Iran"
+                },
+                "name": "RI Iran",
+                "totalPoints": 1564.49,
+                "active": false,
+                "previousRank": 21,
+                "countryURL": "/fifa-world-ranking/IRN",
+                "countryCode": "IRN"
+            },
+            "previousPoints": 1572.89,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 22,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PER",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Pérou",
+                    "alt": "Pérou"
+                },
+                "name": "Pérou",
+                "totalPoints": 1562.32,
+                "active": false,
+                "previousRank": 22,
+                "countryURL": "/fifa-world-ranking/PER",
+                "countryCode": "PER"
+            },
+            "previousPoints": 1563.45,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 23,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/JPN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Japon",
+                    "alt": "Japon"
+                },
+                "name": "Japon",
+                "totalPoints": 1553.44,
+                "active": false,
+                "previousRank": 23,
+                "countryURL": "/fifa-world-ranking/JPN",
+                "countryCode": "JPN"
+            },
+            "previousPoints": 1549.82,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 24,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MAR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Maroc",
+                    "alt": "Maroc"
+                },
+                "name": "Maroc",
+                "totalPoints": 1551.88,
+                "active": false,
+                "previousRank": 24,
+                "countryURL": "/fifa-world-ranking/MAR",
+                "countryCode": "MAR"
+            },
+            "previousPoints": 1547.42,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 25,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SRB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Serbie",
+                    "alt": "Serbie"
+                },
+                "name": "Serbie",
+                "totalPoints": 1547.53,
+                "active": false,
+                "previousRank": 25,
+                "countryURL": "/fifa-world-ranking/SRB",
+                "countryCode": "SRB"
+            },
+            "previousPoints": 1547.38,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 26,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/POL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Pologne",
+                    "alt": "Pologne"
+                },
+                "name": "Pologne",
+                "totalPoints": 1544.2,
+                "active": false,
+                "previousRank": 28,
+                "countryURL": "/fifa-world-ranking/POL",
+                "countryCode": "POL"
+            },
+            "previousPoints": 1530.62,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 27,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/UKR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Ukraine",
+                    "alt": "Ukraine"
+                },
+                "name": "Ukraine",
+                "totalPoints": 1535.08,
+                "active": false,
+                "previousRank": 27,
+                "countryURL": "/fifa-world-ranking/UKR",
+                "countryCode": "UKR"
+            },
+            "previousPoints": 1535.08,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 28,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CHI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Chili",
+                    "alt": "Chili"
+                },
+                "name": "Chili",
+                "totalPoints": 1526.4,
+                "active": false,
+                "previousRank": 26,
+                "countryURL": "/fifa-world-ranking/CHI",
+                "countryCode": "CHI"
+            },
+            "previousPoints": 1543.16,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 29,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KOR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "République de Corée",
+                    "alt": "République de Corée"
+                },
+                "name": "République de Corée",
+                "totalPoints": 1519.54,
+                "active": false,
+                "previousRank": 29,
+                "countryURL": "/fifa-world-ranking/KOR",
+                "countryCode": "KOR"
+            },
+            "previousPoints": 1522.85,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 30,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NGA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Nigeria",
+                    "alt": "Nigeria"
+                },
+                "name": "Nigeria",
+                "totalPoints": 1504.01,
+                "active": false,
+                "previousRank": 32,
+                "countryURL": "/fifa-world-ranking/NGA",
+                "countryCode": "NGA"
+            },
+            "previousPoints": 1509.91,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 31,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CRC",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Costa Rica",
+                    "alt": "Costa Rica"
+                },
+                "name": "Costa Rica",
+                "totalPoints": 1503.09,
+                "active": false,
+                "previousRank": 42,
+                "countryURL": "/fifa-world-ranking/CRC",
+                "countryCode": "CRC"
+            },
+            "previousPoints": 1464.06,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 32,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/EGY",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Egypte",
+                    "alt": "Egypte"
+                },
+                "name": "Egypte",
+                "totalPoints": 1500.67,
+                "active": false,
+                "previousRank": 34,
+                "countryURL": "/fifa-world-ranking/EGY",
+                "countryCode": "EGY"
+            },
+            "previousPoints": 1497.05,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 33,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CZE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "République tchèque",
+                    "alt": "République tchèque"
+                },
+                "name": "République tchèque",
+                "totalPoints": 1500.62,
+                "active": false,
+                "previousRank": 31,
+                "countryURL": "/fifa-world-ranking/CZE",
+                "countryCode": "CZE"
+            },
+            "previousPoints": 1510.42,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 34,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/AUT",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Autriche",
+                    "alt": "Autriche"
+                },
+                "name": "Autriche",
+                "totalPoints": 1500.37,
+                "active": false,
+                "previousRank": 30,
+                "countryURL": "/fifa-world-ranking/AUT",
+                "countryCode": "AUT"
+            },
+            "previousPoints": 1511.56,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 35,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TUN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Tunisie",
+                    "alt": "Tunisie"
+                },
+                "name": "Tunisie",
+                "totalPoints": 1499.8,
+                "active": false,
+                "previousRank": 36,
+                "countryURL": "/fifa-world-ranking/TUN",
+                "countryCode": "TUN"
+            },
+            "previousPoints": 1489.92,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 36,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/RUS",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Russie",
+                    "alt": "Russie"
+                },
+                "name": "Russie",
+                "totalPoints": 1493.42,
+                "active": false,
+                "previousRank": 35,
+                "countryURL": "/fifa-world-ranking/RUS",
+                "countryCode": "RUS"
+            },
+            "previousPoints": 1493.42,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 37,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CMR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Cameroun",
+                    "alt": "Cameroun"
+                },
+                "name": "Cameroun",
+                "totalPoints": 1480.48,
+                "active": false,
+                "previousRank": 38,
+                "countryURL": "/fifa-world-ranking/CMR",
+                "countryCode": "CMR"
+            },
+            "previousPoints": 1480.82,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 38,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CAN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Canada",
+                    "alt": "Canada"
+                },
+                "name": "Canada",
+                "totalPoints": 1479,
+                "active": false,
+                "previousRank": 33,
+                "countryURL": "/fifa-world-ranking/CAN",
+                "countryCode": "CAN"
+            },
+            "previousPoints": 1497.82,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 39,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SCO",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Écosse",
+                    "alt": "Écosse"
+                },
+                "name": "Écosse",
+                "totalPoints": 1472.66,
+                "active": false,
+                "previousRank": 40,
+                "countryURL": "/fifa-world-ranking/SCO",
+                "countryCode": "SCO"
+            },
+            "previousPoints": 1471.82,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 40,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/HUN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Hongrie",
+                    "alt": "Hongrie"
+                },
+                "name": "Hongrie",
+                "totalPoints": 1466.08,
+                "active": false,
+                "previousRank": 41,
+                "countryURL": "/fifa-world-ranking/HUN",
+                "countryCode": "HUN"
+            },
+            "previousPoints": 1465.62,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 41,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NOR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Norvège",
+                    "alt": "Norvège"
+                },
+                "name": "Norvège",
+                "totalPoints": 1463.5,
+                "active": false,
+                "previousRank": 45,
+                "countryURL": "/fifa-world-ranking/NOR",
+                "countryCode": "NOR"
+            },
+            "previousPoints": 1455.43,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 42,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/AUS",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Australie",
+                    "alt": "Australie"
+                },
+                "name": "Australie",
+                "totalPoints": 1462.29,
+                "active": false,
+                "previousRank": 37,
+                "countryURL": "/fifa-world-ranking/AUS",
+                "countryCode": "AUS"
+            },
+            "previousPoints": 1486.86,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 43,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TUR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Turquie",
+                    "alt": "Turquie"
+                },
+                "name": "Turquie",
+                "totalPoints": 1461.81,
+                "active": false,
+                "previousRank": 39,
+                "countryURL": "/fifa-world-ranking/TUR",
+                "countryCode": "TUR"
+            },
+            "previousPoints": 1472.72,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 44,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ALG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Algérie",
+                    "alt": "Algérie"
+                },
+                "name": "Algérie",
+                "totalPoints": 1461.26,
+                "active": false,
+                "previousRank": 43,
+                "countryURL": "/fifa-world-ranking/ALG",
+                "countryCode": "ALG"
+            },
+            "previousPoints": 1460.93,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 45,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SVK",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Slovaquie",
+                    "alt": "Slovaquie"
+                },
+                "name": "Slovaquie",
+                "totalPoints": 1454.98,
+                "active": false,
+                "previousRank": 46,
+                "countryURL": "/fifa-world-ranking/SVK",
+                "countryCode": "SVK"
+            },
+            "previousPoints": 1455.36,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 46,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ECU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Equateur",
+                    "alt": "Equateur"
+                },
+                "name": "Equateur",
+                "totalPoints": 1452.63,
+                "active": false,
+                "previousRank": 44,
+                "countryURL": "/fifa-world-ranking/ECU",
+                "countryCode": "ECU"
+            },
+            "previousPoints": 1458.63,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 47,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/IRL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "République d’Irlande",
+                    "alt": "République d’Irlande"
+                },
+                "name": "République d’Irlande",
+                "totalPoints": 1449.48,
+                "active": false,
+                "previousRank": 49,
+                "countryURL": "/fifa-world-ranking/IRL",
+                "countryCode": "IRL"
+            },
+            "previousPoints": 1444.29,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 48,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ROU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Roumanie",
+                    "alt": "Roumanie"
+                },
+                "name": "Roumanie",
+                "totalPoints": 1446.54,
+                "active": false,
+                "previousRank": 47,
+                "countryURL": "/fifa-world-ranking/ROU",
+                "countryCode": "ROU"
+            },
+            "previousPoints": 1453.18,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 49,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KSA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Arabie Saoudite",
+                    "alt": "Arabie Saoudite"
+                },
+                "name": "Arabie Saoudite",
+                "totalPoints": 1444.69,
+                "active": false,
+                "previousRank": 53,
+                "countryURL": "/fifa-world-ranking/KSA",
+                "countryCode": "KSA"
+            },
+            "previousPoints": 1433.95,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 50,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PAR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Paraguay",
+                    "alt": "Paraguay"
+                },
+                "name": "Paraguay",
+                "totalPoints": 1443.3,
+                "active": false,
+                "previousRank": 50,
+                "countryURL": "/fifa-world-ranking/PAR",
+                "countryCode": "PAR"
+            },
+            "previousPoints": 1440.53,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 51,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/QAT",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Qatar",
+                    "alt": "Qatar"
+                },
+                "name": "Qatar",
+                "totalPoints": 1441.41,
+                "active": false,
+                "previousRank": 52,
+                "countryURL": "/fifa-world-ranking/QAT",
+                "countryCode": "QAT"
+            },
+            "previousPoints": 1437.91,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 52,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MLI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Mali",
+                    "alt": "Mali"
+                },
+                "name": "Mali",
+                "totalPoints": 1436.62,
+                "active": false,
+                "previousRank": 48,
+                "countryURL": "/fifa-world-ranking/MLI",
+                "countryCode": "MLI"
+            },
+            "previousPoints": 1446.49,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 53,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CIV",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Côte d'Ivoire",
+                    "alt": "Côte d'Ivoire"
+                },
+                "name": "Côte d'Ivoire",
+                "totalPoints": 1435.28,
+                "active": false,
+                "previousRank": 51,
+                "countryURL": "/fifa-world-ranking/CIV",
+                "countryCode": "CIV"
+            },
+            "previousPoints": 1439.62,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 54,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NIR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Irlande du Nord",
+                    "alt": "Irlande du Nord"
+                },
+                "name": "Irlande du Nord",
+                "totalPoints": 1423.55,
+                "active": false,
+                "previousRank": 54,
+                "countryURL": "/fifa-world-ranking/NIR",
+                "countryCode": "NIR"
+            },
+            "previousPoints": 1424.97,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 55,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GRE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Grèce",
+                    "alt": "Grèce"
+                },
+                "name": "Grèce",
+                "totalPoints": 1421.43,
+                "active": false,
+                "previousRank": 55,
+                "countryURL": "/fifa-world-ranking/GRE",
+                "countryCode": "GRE"
+            },
+            "previousPoints": 1421.99,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 56,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BFA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Burkina Faso",
+                    "alt": "Burkina Faso"
+                },
+                "name": "Burkina Faso",
+                "totalPoints": 1409.61,
+                "active": false,
+                "previousRank": 56,
+                "countryURL": "/fifa-world-ranking/BFA",
+                "countryCode": "BFA"
+            },
+            "previousPoints": 1418.58,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 57,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/FIN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Finlande",
+                    "alt": "Finlande"
+                },
+                "name": "Finlande",
+                "totalPoints": 1406.87,
+                "active": false,
+                "previousRank": 57,
+                "countryURL": "/fifa-world-ranking/FIN",
+                "countryCode": "FIN"
+            },
+            "previousPoints": 1411.77,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 58,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/VEN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Venezuela",
+                    "alt": "Venezuela"
+                },
+                "name": "Venezuela",
+                "totalPoints": 1398.14,
+                "active": false,
+                "previousRank": 58,
+                "countryURL": "/fifa-world-ranking/VEN",
+                "countryCode": "VEN"
+            },
+            "previousPoints": 1411.45,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 59,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BIH",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bosnie-et-Herzégovine",
+                    "alt": "Bosnie-et-Herzégovine"
+                },
+                "name": "Bosnie-et-Herzégovine",
+                "totalPoints": 1388.63,
+                "active": false,
+                "previousRank": 59,
+                "countryURL": "/fifa-world-ranking/BIH",
+                "countryCode": "BIH"
+            },
+            "previousPoints": 1391.19,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 60,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GHA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Ghana",
+                    "alt": "Ghana"
+                },
+                "name": "Ghana",
+                "totalPoints": 1387.36,
+                "active": false,
+                "previousRank": 61,
+                "countryURL": "/fifa-world-ranking/GHA",
+                "countryCode": "GHA"
+            },
+            "previousPoints": 1381.45,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 61,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PAN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Panama",
+                    "alt": "Panama"
+                },
+                "name": "Panama",
+                "totalPoints": 1382.79,
+                "active": false,
+                "previousRank": 63,
+                "countryURL": "/fifa-world-ranking/PAN",
+                "countryCode": "PAN"
+            },
+            "previousPoints": 1375.56,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 62,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MKD",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Macédoine du Nord",
+                    "alt": "Macédoine du Nord"
+                },
+                "name": "Macédoine du Nord",
+                "totalPoints": 1381.07,
+                "active": false,
+                "previousRank": 67,
+                "countryURL": "/fifa-world-ranking/MKD",
+                "countryCode": "MKD"
+            },
+            "previousPoints": 1367.23,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 63,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ISL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Islande",
+                    "alt": "Islande"
+                },
+                "name": "Islande",
+                "totalPoints": 1380.85,
+                "active": false,
+                "previousRank": 60,
+                "countryURL": "/fifa-world-ranking/ISL",
+                "countryCode": "ISL"
+            },
+            "previousPoints": 1382.81,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 64,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/JAM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Jamaïque",
+                    "alt": "Jamaïque"
+                },
+                "name": "Jamaïque",
+                "totalPoints": 1378.75,
+                "active": false,
+                "previousRank": 62,
+                "countryURL": "/fifa-world-ranking/JAM",
+                "countryCode": "JAM"
+            },
+            "previousPoints": 1378.62,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 65,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SVN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Slovénie",
+                    "alt": "Slovénie"
+                },
+                "name": "Slovénie",
+                "totalPoints": 1378.23,
+                "active": false,
+                "previousRank": 64,
+                "countryURL": "/fifa-world-ranking/SVN",
+                "countryCode": "SVN"
+            },
+            "previousPoints": 1375.42,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 66,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ALB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Albanie",
+                    "alt": "Albanie"
+                },
+                "name": "Albanie",
+                "totalPoints": 1371.86,
+                "active": false,
+                "previousRank": 65,
+                "countryURL": "/fifa-world-ranking/ALB",
+                "countryCode": "ALB"
+            },
+            "previousPoints": 1374.98,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 67,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/COD",
+                    "width": 70,
+                    "height": 46,
+                    "title": "RD Congo",
+                    "alt": "RD Congo"
+                },
+                "name": "RD Congo",
+                "totalPoints": 1365.07,
+                "active": false,
+                "previousRank": 66,
+                "countryURL": "/fifa-world-ranking/COD",
+                "countryCode": "COD"
+            },
+            "previousPoints": 1369.53,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 68,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/UAE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Emirats Arabes Unis",
+                    "alt": "Emirats Arabes Unis"
+                },
+                "name": "Emirats Arabes Unis",
+                "totalPoints": 1356.99,
+                "active": false,
+                "previousRank": 69,
+                "countryURL": "/fifa-world-ranking/UAE",
+                "countryCode": "UAE"
+            },
+            "previousPoints": 1353.1,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 69,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/RSA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Afrique du Sud",
+                    "alt": "Afrique du Sud"
+                },
+                "name": "Afrique du Sud",
+                "totalPoints": 1356.01,
+                "active": false,
+                "previousRank": 68,
+                "countryURL": "/fifa-world-ranking/RSA",
+                "countryCode": "RSA"
+            },
+            "previousPoints": 1358.24,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 70,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MNE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Monténégro",
+                    "alt": "Monténégro"
+                },
+                "name": "Monténégro",
+                "totalPoints": 1342.79,
+                "active": false,
+                "previousRank": 72,
+                "countryURL": "/fifa-world-ranking/MNE",
+                "countryCode": "MNE"
+            },
+            "previousPoints": 1342.89,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 71,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CPV",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Cap-Vert",
+                    "alt": "Cap-Vert"
+                },
+                "name": "Cap-Vert",
+                "totalPoints": 1339.5,
+                "active": false,
+                "previousRank": 73,
+                "countryURL": "/fifa-world-ranking/CPV",
+                "countryCode": "CPV"
+            },
+            "previousPoints": 1336.88,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 72,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/IRQ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Irak",
+                    "alt": "Irak"
+                },
+                "name": "Irak",
+                "totalPoints": 1338.91,
+                "active": false,
+                "previousRank": 74,
+                "countryURL": "/fifa-world-ranking/IRQ",
+                "countryCode": "IRQ"
+            },
+            "previousPoints": 1325.44,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 73,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BUL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bulgarie",
+                    "alt": "Bulgarie"
+                },
+                "name": "Bulgarie",
+                "totalPoints": 1338.78,
+                "active": false,
+                "previousRank": 71,
+                "countryURL": "/fifa-world-ranking/BUL",
+                "countryCode": "BUL"
+            },
+            "previousPoints": 1345.47,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 74,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SLV",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Salvador",
+                    "alt": "Salvador"
+                },
+                "name": "Salvador",
+                "totalPoints": 1331.65,
+                "active": false,
+                "previousRank": 70,
+                "countryURL": "/fifa-world-ranking/SLV",
+                "countryCode": "SLV"
+            },
+            "previousPoints": 1346.04,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 75,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/OMA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Oman",
+                    "alt": "Oman"
+                },
+                "name": "Oman",
+                "totalPoints": 1324.16,
+                "active": false,
+                "previousRank": 79,
+                "countryURL": "/fifa-world-ranking/OMA",
+                "countryCode": "OMA"
+            },
+            "previousPoints": 1301,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 76,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ISR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Israël",
+                    "alt": "Israël"
+                },
+                "name": "Israël",
+                "totalPoints": 1305.92,
+                "active": false,
+                "previousRank": 77,
+                "countryURL": "/fifa-world-ranking/ISR",
+                "countryCode": "ISR"
+            },
+            "previousPoints": 1306.7,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 77,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CHN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "RP Chine",
+                    "alt": "RP Chine"
+                },
+                "name": "RP Chine",
+                "totalPoints": 1304.02,
+                "active": false,
+                "previousRank": 75,
+                "countryURL": "/fifa-world-ranking/CHN",
+                "countryCode": "CHN"
+            },
+            "previousPoints": 1313.81,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 78,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BOL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bolivie",
+                    "alt": "Bolivie"
+                },
+                "name": "Bolivie",
+                "totalPoints": 1298.81,
+                "active": false,
+                "previousRank": 76,
+                "countryURL": "/fifa-world-ranking/BOL",
+                "countryCode": "BOL"
+            },
+            "previousPoints": 1308.12,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 79,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CUW",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Curaçao",
+                    "alt": "Curaçao"
+                },
+                "name": "Curaçao",
+                "totalPoints": 1298.39,
+                "active": false,
+                "previousRank": 80,
+                "countryURL": "/fifa-world-ranking/CUW",
+                "countryCode": "CUW"
+            },
+            "previousPoints": 1298.39,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 80,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GUI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Guinée",
+                    "alt": "Guinée"
+                },
+                "name": "Guinée",
+                "totalPoints": 1293.21,
+                "active": false,
+                "previousRank": 81,
+                "countryURL": "/fifa-world-ranking/GUI",
+                "countryCode": "GUI"
+            },
+            "previousPoints": 1292.58,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 81,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GAB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Gabon",
+                    "alt": "Gabon"
+                },
+                "name": "Gabon",
+                "totalPoints": 1290.65,
+                "active": false,
+                "previousRank": 82,
+                "countryURL": "/fifa-world-ranking/GAB",
+                "countryCode": "GAB"
+            },
+            "previousPoints": 1290.65,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 82,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/HON",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Honduras",
+                    "alt": "Honduras"
+                },
+                "name": "Honduras",
+                "totalPoints": 1289.47,
+                "active": false,
+                "previousRank": 78,
+                "countryURL": "/fifa-world-ranking/HON",
+                "countryCode": "HON"
+            },
+            "previousPoints": 1303.96,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 83,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/UZB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Ouzbékistan",
+                    "alt": "Ouzbékistan"
+                },
+                "name": "Ouzbékistan",
+                "totalPoints": 1286.55,
+                "active": false,
+                "previousRank": 85,
+                "countryURL": "/fifa-world-ranking/UZB",
+                "countryCode": "UZB"
+            },
+            "previousPoints": 1277.02,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 84,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BEN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bénin",
+                    "alt": "Bénin"
+                },
+                "name": "Bénin",
+                "totalPoints": 1284.13,
+                "active": false,
+                "previousRank": 83,
+                "countryURL": "/fifa-world-ranking/BEN",
+                "countryCode": "BEN"
+            },
+            "previousPoints": 1282.53,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 85,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GEO",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Géorgie",
+                    "alt": "Géorgie"
+                },
+                "name": "Géorgie",
+                "totalPoints": 1276.31,
+                "active": false,
+                "previousRank": 86,
+                "countryURL": "/fifa-world-ranking/GEO",
+                "countryCode": "GEO"
+            },
+            "previousPoints": 1269.24,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 86,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/UGA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Ouganda",
+                    "alt": "Ouganda"
+                },
+                "name": "Ouganda",
+                "totalPoints": 1275.5,
+                "active": false,
+                "previousRank": 84,
+                "countryURL": "/fifa-world-ranking/UGA",
+                "countryCode": "UGA"
+            },
+            "previousPoints": 1279.18,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 87,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ZAM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Zambie",
+                    "alt": "Zambie"
+                },
+                "name": "Zambie",
+                "totalPoints": 1267.04,
+                "active": false,
+                "previousRank": 88,
+                "countryURL": "/fifa-world-ranking/ZAM",
+                "countryCode": "ZAM"
+            },
+            "previousPoints": 1264.64,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 88,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SYR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Syrie",
+                    "alt": "Syrie"
+                },
+                "name": "Syrie",
+                "totalPoints": 1265.03,
+                "active": false,
+                "previousRank": 91,
+                "countryURL": "/fifa-world-ranking/SYR",
+                "countryCode": "SYR"
+            },
+            "previousPoints": 1251.22,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 89,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BHR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bahreïn",
+                    "alt": "Bahreïn"
+                },
+                "name": "Bahreïn",
+                "totalPoints": 1262.55,
+                "active": false,
+                "previousRank": 89,
+                "countryURL": "/fifa-world-ranking/BHR",
+                "countryCode": "BHR"
+            },
+            "previousPoints": 1263.61,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 90,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/HAI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Haïti",
+                    "alt": "Haïti"
+                },
+                "name": "Haïti",
+                "totalPoints": 1261.86,
+                "active": false,
+                "previousRank": 87,
+                "countryURL": "/fifa-world-ranking/HAI",
+                "countryCode": "HAI"
+            },
+            "previousPoints": 1268.05,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 91,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/JOR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Jordanie",
+                    "alt": "Jordanie"
+                },
+                "name": "Jordanie",
+                "totalPoints": 1259.84,
+                "active": false,
+                "previousRank": 90,
+                "countryURL": "/fifa-world-ranking/JOR",
+                "countryCode": "JOR"
+            },
+            "previousPoints": 1259.84,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 92,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ARM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Arménie",
+                    "alt": "Arménie"
+                },
+                "name": "Arménie",
+                "totalPoints": 1245.13,
+                "active": false,
+                "previousRank": 92,
+                "countryURL": "/fifa-world-ranking/ARM",
+                "countryCode": "ARM"
+            },
+            "previousPoints": 1242.24,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 93,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BLR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bélarus",
+                    "alt": "Bélarus"
+                },
+                "name": "Bélarus",
+                "totalPoints": 1243.2,
+                "active": false,
+                "previousRank": 94,
+                "countryURL": "/fifa-world-ranking/BLR",
+                "countryCode": "BLR"
+            },
+            "previousPoints": 1233.43,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 94,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LUX",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Luxembourg",
+                    "alt": "Luxembourg"
+                },
+                "name": "Luxembourg",
+                "totalPoints": 1229.6,
+                "active": false,
+                "previousRank": 93,
+                "countryURL": "/fifa-world-ranking/LUX",
+                "countryCode": "LUX"
+            },
+            "previousPoints": 1236.45,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 95,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KGZ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "République Kirghize",
+                    "alt": "République Kirghize"
+                },
+                "name": "République Kirghize",
+                "totalPoints": 1218.48,
+                "active": false,
+                "previousRank": 96,
+                "countryURL": "/fifa-world-ranking/KGZ",
+                "countryCode": "KGZ"
+            },
+            "previousPoints": 1228.69,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 96,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/VIE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Viêt-Nam",
+                    "alt": "Viêt-Nam"
+                },
+                "name": "Viêt-Nam",
+                "totalPoints": 1215.38,
+                "active": false,
+                "previousRank": 98,
+                "countryURL": "/fifa-world-ranking/VIE",
+                "countryCode": "VIE"
+            },
+            "previousPoints": 1218.55,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 97,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LBN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Liban",
+                    "alt": "Liban"
+                },
+                "name": "Liban",
+                "totalPoints": 1211.71,
+                "active": false,
+                "previousRank": 95,
+                "countryURL": "/fifa-world-ranking/LBN",
+                "countryCode": "LBN"
+            },
+            "previousPoints": 1228.97,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 98,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CGO",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Congo",
+                    "alt": "Congo"
+                },
+                "name": "Congo",
+                "totalPoints": 1211.33,
+                "active": false,
+                "previousRank": 97,
+                "countryURL": "/fifa-world-ranking/CGO",
+                "countryCode": "CGO"
+            },
+            "previousPoints": 1221.4,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 99,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/EQG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Guinée Équatoriale",
+                    "alt": "Guinée Équatoriale"
+                },
+                "name": "Guinée Équatoriale",
+                "totalPoints": 1210.07,
+                "active": false,
+                "previousRank": 99,
+                "countryURL": "/fifa-world-ranking/EQG",
+                "countryCode": "EQG"
+            },
+            "previousPoints": 1210.07,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 100,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PLE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Palestine",
+                    "alt": "Palestine"
+                },
+                "name": "Palestine",
+                "totalPoints": 1208.9,
+                "active": false,
+                "previousRank": 100,
+                "countryURL": "/fifa-world-ranking/PLE",
+                "countryCode": "PLE"
+            },
+            "previousPoints": 1208.9,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 101,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NZL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Nouvelle-Zélande",
+                    "alt": "Nouvelle-Zélande"
+                },
+                "name": "Nouvelle-Zélande",
+                "totalPoints": 1206.07,
+                "active": false,
+                "previousRank": 111,
+                "countryURL": "/fifa-world-ranking/NZL",
+                "countryCode": "NZL"
+            },
+            "previousPoints": 1161.66,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 102,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MAD",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Madagascar",
+                    "alt": "Madagascar"
+                },
+                "name": "Madagascar",
+                "totalPoints": 1205.61,
+                "active": false,
+                "previousRank": 102,
+                "countryURL": "/fifa-world-ranking/MAD",
+                "countryCode": "MAD"
+            },
+            "previousPoints": 1205.61,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 103,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TRI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Trinité-et-Tobago",
+                    "alt": "Trinité-et-Tobago"
+                },
+                "name": "Trinité-et-Tobago",
+                "totalPoints": 1203.78,
+                "active": false,
+                "previousRank": 101,
+                "countryURL": "/fifa-world-ranking/TRI",
+                "countryCode": "TRI"
+            },
+            "previousPoints": 1205.99,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 104,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KEN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Kenya",
+                    "alt": "Kenya"
+                },
+                "name": "Kenya",
+                "totalPoints": 1202.26,
+                "active": false,
+                "previousRank": 103,
+                "countryURL": "/fifa-world-ranking/KEN",
+                "countryCode": "KEN"
+            },
+            "previousPoints": 1202.26,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 105,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CYP",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Chypre",
+                    "alt": "Chypre"
+                },
+                "name": "Chypre",
+                "totalPoints": 1186.09,
+                "active": false,
+                "previousRank": 105,
+                "countryURL": "/fifa-world-ranking/CYP",
+                "countryCode": "CYP"
+            },
+            "previousPoints": 1178.65,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 106,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/IND",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Inde",
+                    "alt": "Inde"
+                },
+                "name": "Inde",
+                "totalPoints": 1174.04,
+                "active": false,
+                "previousRank": 104,
+                "countryURL": "/fifa-world-ranking/IND",
+                "countryCode": "IND"
+            },
+            "previousPoints": 1182.75,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 107,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KOS",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Kosovo",
+                    "alt": "Kosovo"
+                },
+                "name": "Kosovo",
+                "totalPoints": 1173.9,
+                "active": false,
+                "previousRank": 109,
+                "countryURL": "/fifa-world-ranking/KOS",
+                "countryCode": "KOS"
+            },
+            "previousPoints": 1163.05,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 108,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SLE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Sierra Leone",
+                    "alt": "Sierra Leone"
+                },
+                "name": "Sierra Leone",
+                "totalPoints": 1173.89,
+                "active": false,
+                "previousRank": 107,
+                "countryURL": "/fifa-world-ranking/SLE",
+                "countryCode": "SLE"
+            },
+            "previousPoints": 1173.81,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 109,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PRK",
+                    "width": 70,
+                    "height": 46,
+                    "title": "RDP Corée",
+                    "alt": "RDP Corée"
+                },
+                "name": "RDP Corée",
+                "totalPoints": 1169.96,
+                "active": false,
+                "previousRank": 108,
+                "countryURL": "/fifa-world-ranking/PRK",
+                "countryCode": "PRK"
+            },
+            "previousPoints": 1169.96,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 110,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/EST",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Estonie",
+                    "alt": "Estonie"
+                },
+                "name": "Estonie",
+                "totalPoints": 1169.06,
+                "active": false,
+                "previousRank": 106,
+                "countryURL": "/fifa-world-ranking/EST",
+                "countryCode": "EST"
+            },
+            "previousPoints": 1176.5,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 111,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/THA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Thaïlande",
+                    "alt": "Thaïlande"
+                },
+                "name": "Thaïlande",
+                "totalPoints": 1167.68,
+                "active": false,
+                "previousRank": 112,
+                "countryURL": "/fifa-world-ranking/THA",
+                "countryCode": "THA"
+            },
+            "previousPoints": 1160.14,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 112,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NAM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Namibie",
+                    "alt": "Namibie"
+                },
+                "name": "Namibie",
+                "totalPoints": 1162.93,
+                "active": false,
+                "previousRank": 110,
+                "countryURL": "/fifa-world-ranking/NAM",
+                "countryCode": "NAM"
+            },
+            "previousPoints": 1162.93,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 113,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MTN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Mauritanie",
+                    "alt": "Mauritanie"
+                },
+                "name": "Mauritanie",
+                "totalPoints": 1162.48,
+                "active": false,
+                "previousRank": 116,
+                "countryURL": "/fifa-world-ranking/MTN",
+                "countryCode": "MTN"
+            },
+            "previousPoints": 1152.52,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 114,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TJK",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Tadjikistan",
+                    "alt": "Tadjikistan"
+                },
+                "name": "Tadjikistan",
+                "totalPoints": 1159.42,
+                "active": false,
+                "previousRank": 115,
+                "countryURL": "/fifa-world-ranking/TJK",
+                "countryCode": "TJK"
+            },
+            "previousPoints": 1152.56,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 115,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GNB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Guinée-Bissau",
+                    "alt": "Guinée-Bissau"
+                },
+                "name": "Guinée-Bissau",
+                "totalPoints": 1158.62,
+                "active": false,
+                "previousRank": 113,
+                "countryURL": "/fifa-world-ranking/GNB",
+                "countryCode": "GNB"
+            },
+            "previousPoints": 1158.62,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 116,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NIG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Niger",
+                    "alt": "Niger"
+                },
+                "name": "Niger",
+                "totalPoints": 1153.23,
+                "active": false,
+                "previousRank": 114,
+                "countryURL": "/fifa-world-ranking/NIG",
+                "countryCode": "NIG"
+            },
+            "previousPoints": 1158.39,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 117,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LBY",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Libye",
+                    "alt": "Libye"
+                },
+                "name": "Libye",
+                "totalPoints": 1149.63,
+                "active": false,
+                "previousRank": 118,
+                "countryURL": "/fifa-world-ranking/LBY",
+                "countryCode": "LBY"
+            },
+            "previousPoints": 1149.51,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 118,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GUA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Guatemala",
+                    "alt": "Guatemala"
+                },
+                "name": "Guatemala",
+                "totalPoints": 1147.85,
+                "active": false,
+                "previousRank": 123,
+                "countryURL": "/fifa-world-ranking/GUA",
+                "countryCode": "GUA"
+            },
+            "previousPoints": 1138.4,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 119,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MOZ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Mozambique",
+                    "alt": "Mozambique"
+                },
+                "name": "Mozambique",
+                "totalPoints": 1146.09,
+                "active": false,
+                "previousRank": 117,
+                "countryURL": "/fifa-world-ranking/MOZ",
+                "countryCode": "MOZ"
+            },
+            "previousPoints": 1151,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 120,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MWI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Malawi",
+                    "alt": "Malawi"
+                },
+                "name": "Malawi",
+                "totalPoints": 1145.08,
+                "active": false,
+                "previousRank": 119,
+                "countryURL": "/fifa-world-ranking/MWI",
+                "countryCode": "MWI"
+            },
+            "previousPoints": 1145.08,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 121,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TOG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Togo",
+                    "alt": "Togo"
+                },
+                "name": "Togo",
+                "totalPoints": 1140,
+                "active": false,
+                "previousRank": 126,
+                "countryURL": "/fifa-world-ranking/TOG",
+                "countryCode": "TOG"
+            },
+            "previousPoints": 1133.24,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 122,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ZIM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Zimbabwe",
+                    "alt": "Zimbabwe"
+                },
+                "name": "Zimbabwe",
+                "totalPoints": 1138.56,
+                "active": false,
+                "previousRank": 122,
+                "countryURL": "/fifa-world-ranking/ZIM",
+                "countryCode": "ZIM"
+            },
+            "previousPoints": 1138.56,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 123,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GAM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Gambie",
+                    "alt": "Gambie"
+                },
+                "name": "Gambie",
+                "totalPoints": 1138.19,
+                "active": false,
+                "previousRank": 125,
+                "countryURL": "/fifa-world-ranking/GAM",
+                "countryCode": "GAM"
+            },
+            "previousPoints": 1135.18,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 124,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/FRO",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Féroé (Iles)",
+                    "alt": "Féroé (Iles)"
+                },
+                "name": "Féroé (Iles)",
+                "totalPoints": 1137.4,
+                "active": false,
+                "previousRank": 124,
+                "countryURL": "/fifa-world-ranking/FRO",
+                "countryCode": "FRO"
+            },
+            "previousPoints": 1136.99,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 125,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KAZ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Kazakhstan",
+                    "alt": "Kazakhstan"
+                },
+                "name": "Kazakhstan",
+                "totalPoints": 1134.77,
+                "active": false,
+                "previousRank": 120,
+                "countryURL": "/fifa-world-ranking/KAZ",
+                "countryCode": "KAZ"
+            },
+            "previousPoints": 1140.71,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 126,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ANG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Angola",
+                    "alt": "Angola"
+                },
+                "name": "Angola",
+                "totalPoints": 1131.72,
+                "active": false,
+                "previousRank": 127,
+                "countryURL": "/fifa-world-ranking/ANG",
+                "countryCode": "ANG"
+            },
+            "previousPoints": 1131.72,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 127,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ATG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Antigua-et-Barbuda",
+                    "alt": "Antigua-et-Barbuda"
+                },
+                "name": "Antigua-et-Barbuda",
+                "totalPoints": 1131.07,
+                "active": false,
+                "previousRank": 128,
+                "countryURL": "/fifa-world-ranking/ATG",
+                "countryCode": "ATG"
+            },
+            "previousPoints": 1131.07,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 128,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/COM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Comores",
+                    "alt": "Comores"
+                },
+                "name": "Comores",
+                "totalPoints": 1130.77,
+                "active": false,
+                "previousRank": 131,
+                "countryURL": "/fifa-world-ranking/COM",
+                "countryCode": "COM"
+            },
+            "previousPoints": 1126.2,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 129,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/AZE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Azerbaïdjan",
+                    "alt": "Azerbaïdjan"
+                },
+                "name": "Azerbaïdjan",
+                "totalPoints": 1127.05,
+                "active": false,
+                "previousRank": 121,
+                "countryURL": "/fifa-world-ranking/AZE",
+                "countryCode": "AZE"
+            },
+            "previousPoints": 1139.02,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 130,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TAN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Tanzanie",
+                    "alt": "Tanzanie"
+                },
+                "name": "Tanzanie",
+                "totalPoints": 1123.79,
+                "active": false,
+                "previousRank": 132,
+                "countryURL": "/fifa-world-ranking/TAN",
+                "countryCode": "TAN"
+            },
+            "previousPoints": 1118.76,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 131,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CTA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "République centrafricaine",
+                    "alt": "République centrafricaine"
+                },
+                "name": "République centrafricaine",
+                "totalPoints": 1122.08,
+                "active": false,
+                "previousRank": 130,
+                "countryURL": "/fifa-world-ranking/CTA",
+                "countryCode": "CTA"
+            },
+            "previousPoints": 1127.2,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 132,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SDN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Soudan",
+                    "alt": "Soudan"
+                },
+                "name": "Soudan",
+                "totalPoints": 1118.4,
+                "active": false,
+                "previousRank": 133,
+                "countryURL": "/fifa-world-ranking/SDN",
+                "countryCode": "SDN"
+            },
+            "previousPoints": 1118.31,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 133,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PHI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Philippines",
+                    "alt": "Philippines"
+                },
+                "name": "Philippines",
+                "totalPoints": 1117.89,
+                "active": false,
+                "previousRank": 129,
+                "countryURL": "/fifa-world-ranking/PHI",
+                "countryCode": "PHI"
+            },
+            "previousPoints": 1129.91,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 134,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TKM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Turkménistan",
+                    "alt": "Turkménistan"
+                },
+                "name": "Turkménistan",
+                "totalPoints": 1117.6,
+                "active": false,
+                "previousRank": 134,
+                "countryURL": "/fifa-world-ranking/TKM",
+                "countryCode": "TKM"
+            },
+            "previousPoints": 1117.6,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 135,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LVA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Lettonie",
+                    "alt": "Lettonie"
+                },
+                "name": "Lettonie",
+                "totalPoints": 1105.02,
+                "active": false,
+                "previousRank": 135,
+                "countryURL": "/fifa-world-ranking/LVA",
+                "countryCode": "LVA"
+            },
+            "previousPoints": 1100.03,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 136,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/RWA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Rwanda",
+                    "alt": "Rwanda"
+                },
+                "name": "Rwanda",
+                "totalPoints": 1097.16,
+                "active": false,
+                "previousRank": 136,
+                "countryURL": "/fifa-world-ranking/RWA",
+                "countryCode": "RWA"
+            },
+            "previousPoints": 1097.16,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 137,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SOL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Salomon (Iles)",
+                    "alt": "Salomon (Iles)"
+                },
+                "name": "Salomon (Iles)",
+                "totalPoints": 1092.56,
+                "active": false,
+                "previousRank": 142,
+                "countryURL": "/fifa-world-ranking/SOL",
+                "countryCode": "SOL"
+            },
+            "previousPoints": 1072.78,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 138,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LTU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Lituanie",
+                    "alt": "Lituanie"
+                },
+                "name": "Lituanie",
+                "totalPoints": 1092.04,
+                "active": false,
+                "previousRank": 137,
+                "countryURL": "/fifa-world-ranking/LTU",
+                "countryCode": "LTU"
+            },
+            "previousPoints": 1091.77,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 139,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BDI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Burundi",
+                    "alt": "Burundi"
+                },
+                "name": "Burundi",
+                "totalPoints": 1080.62,
+                "active": false,
+                "previousRank": 141,
+                "countryURL": "/fifa-world-ranking/BDI",
+                "countryCode": "BDI"
+            },
+            "previousPoints": 1075.82,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 140,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ETH",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Ethiopie",
+                    "alt": "Ethiopie"
+                },
+                "name": "Ethiopie",
+                "totalPoints": 1076.67,
+                "active": false,
+                "previousRank": 138,
+                "countryURL": "/fifa-world-ranking/ETH",
+                "countryCode": "ETH"
+            },
+            "previousPoints": 1081.24,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 141,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SUR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Suriname",
+                    "alt": "Suriname"
+                },
+                "name": "Suriname",
+                "totalPoints": 1073.39,
+                "active": false,
+                "previousRank": 140,
+                "countryURL": "/fifa-world-ranking/SUR",
+                "countryCode": "SUR"
+            },
+            "previousPoints": 1077.57,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 142,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SKN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Saint-Kitts-et-Nevis",
+                    "alt": "Saint-Kitts-et-Nevis"
+                },
+                "name": "Saint-Kitts-et-Nevis",
+                "totalPoints": 1072.3,
+                "active": false,
+                "previousRank": 139,
+                "countryURL": "/fifa-world-ranking/SKN",
+                "countryCode": "SKN"
+            },
+            "previousPoints": 1077.76,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 143,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SWZ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Eswatini",
+                    "alt": "Eswatini"
+                },
+                "name": "Eswatini",
+                "totalPoints": 1070.46,
+                "active": false,
+                "previousRank": 147,
+                "countryURL": "/fifa-world-ranking/SWZ",
+                "countryCode": "SWZ"
+            },
+            "previousPoints": 1054.14,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 144,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NCA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Nicaragua",
+                    "alt": "Nicaragua"
+                },
+                "name": "Nicaragua",
+                "totalPoints": 1062.21,
+                "active": false,
+                "previousRank": 144,
+                "countryURL": "/fifa-world-ranking/NCA",
+                "countryCode": "NCA"
+            },
+            "previousPoints": 1062.21,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 145,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LES",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Lesotho",
+                    "alt": "Lesotho"
+                },
+                "name": "Lesotho",
+                "totalPoints": 1061.72,
+                "active": false,
+                "previousRank": 146,
+                "countryURL": "/fifa-world-ranking/LES",
+                "countryCode": "LES"
+            },
+            "previousPoints": 1057.62,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 146,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/KUW",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Koweït",
+                    "alt": "Koweït"
+                },
+                "name": "Koweït",
+                "totalPoints": 1059.94,
+                "active": false,
+                "previousRank": 143,
+                "countryURL": "/fifa-world-ranking/KUW",
+                "countryCode": "KUW"
+            },
+            "previousPoints": 1065.56,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 147,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/HKG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Hongkong",
+                    "alt": "Hongkong"
+                },
+                "name": "Hongkong",
+                "totalPoints": 1053.39,
+                "active": false,
+                "previousRank": 148,
+                "countryURL": "/fifa-world-ranking/HKG",
+                "countryCode": "HKG"
+            },
+            "previousPoints": 1053.39,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 148,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BOT",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Botswana",
+                    "alt": "Botswana"
+                },
+                "name": "Botswana",
+                "totalPoints": 1051.59,
+                "active": false,
+                "previousRank": 149,
+                "countryURL": "/fifa-world-ranking/BOT",
+                "countryCode": "BOT"
+            },
+            "previousPoints": 1051.59,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 149,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LBR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Libéria",
+                    "alt": "Libéria"
+                },
+                "name": "Libéria",
+                "totalPoints": 1050.5,
+                "active": false,
+                "previousRank": 145,
+                "countryURL": "/fifa-world-ranking/LBR",
+                "countryCode": "LBR"
+            },
+            "previousPoints": 1058.28,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 150,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/AFG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Afghanistan",
+                    "alt": "Afghanistan"
+                },
+                "name": "Afghanistan",
+                "totalPoints": 1049.77,
+                "active": false,
+                "previousRank": 150,
+                "countryURL": "/fifa-world-ranking/AFG",
+                "countryCode": "AFG"
+            },
+            "previousPoints": 1049.77,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 151,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/YEM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Yémen",
+                    "alt": "Yémen"
+                },
+                "name": "Yémen",
+                "totalPoints": 1046.26,
+                "active": false,
+                "previousRank": 151,
+                "countryURL": "/fifa-world-ranking/YEM",
+                "countryCode": "YEM"
+            },
+            "previousPoints": 1046.26,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 152,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MYA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Myanmar",
+                    "alt": "Myanmar"
+                },
+                "name": "Myanmar",
+                "totalPoints": 1044.56,
+                "active": false,
+                "previousRank": 152,
+                "countryURL": "/fifa-world-ranking/MYA",
+                "countryCode": "MYA"
+            },
+            "previousPoints": 1044.56,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 153,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/AND",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Andorre",
+                    "alt": "Andorre"
+                },
+                "name": "Andorre",
+                "totalPoints": 1040.13,
+                "active": false,
+                "previousRank": 155,
+                "countryURL": "/fifa-world-ranking/AND",
+                "countryCode": "AND"
+            },
+            "previousPoints": 1030.28,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 154,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MAS",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Malaisie",
+                    "alt": "Malaisie"
+                },
+                "name": "Malaisie",
+                "totalPoints": 1035.06,
+                "active": false,
+                "previousRank": 154,
+                "countryURL": "/fifa-world-ranking/MAS",
+                "countryCode": "MAS"
+            },
+            "previousPoints": 1034.53,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 155,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/DOM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "République dominicaine",
+                    "alt": "République dominicaine"
+                },
+                "name": "République dominicaine",
+                "totalPoints": 1029.42,
+                "active": false,
+                "previousRank": 156,
+                "countryURL": "/fifa-world-ranking/DOM",
+                "countryCode": "DOM"
+            },
+            "previousPoints": 1029.42,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 156,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MDV",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Maldives (Iles)",
+                    "alt": "Maldives (Iles)"
+                },
+                "name": "Maldives (Iles)",
+                "totalPoints": 1025.5,
+                "active": false,
+                "previousRank": 157,
+                "countryURL": "/fifa-world-ranking/MDV",
+                "countryCode": "MDV"
+            },
+            "previousPoints": 1021.58,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 157,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TPE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Chinese Taipei",
+                    "alt": "Chinese Taipei"
+                },
+                "name": "Chinese Taipei",
+                "totalPoints": 1017.78,
+                "active": false,
+                "previousRank": 158,
+                "countryURL": "/fifa-world-ranking/TPE",
+                "countryCode": "TPE"
+            },
+            "previousPoints": 1017.78,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 158,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SGP",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Singapour",
+                    "alt": "Singapour"
+                },
+                "name": "Singapour",
+                "totalPoints": 1012.27,
+                "active": false,
+                "previousRank": 161,
+                "countryURL": "/fifa-world-ranking/SGP",
+                "countryCode": "SGP"
+            },
+            "previousPoints": 1000.78,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 159,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/IDN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Indonésie",
+                    "alt": "Indonésie"
+                },
+                "name": "Indonésie",
+                "totalPoints": 1001.61,
+                "active": false,
+                "previousRank": 160,
+                "countryURL": "/fifa-world-ranking/IDN",
+                "countryCode": "IDN"
+            },
+            "previousPoints": 1001.61,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 160,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NCL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Nouvelle-Calédonie",
+                    "alt": "Nouvelle-Calédonie"
+                },
+                "name": "Nouvelle-Calédonie",
+                "totalPoints": 999.7,
+                "active": false,
+                "previousRank": 153,
+                "countryURL": "/fifa-world-ranking/NCL",
+                "countryCode": "NCL"
+            },
+            "previousPoints": 1035.12,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 161,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SSD",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Soudan du Sud",
+                    "alt": "Soudan du Sud"
+                },
+                "name": "Soudan du Sud",
+                "totalPoints": 998.45,
+                "active": false,
+                "previousRank": 168,
+                "countryURL": "/fifa-world-ranking/SSD",
+                "countryCode": "SSD"
+            },
+            "previousPoints": 977.81,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 162,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PNG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Papouasie-Nouvelle-Guinée",
+                    "alt": "Papouasie-Nouvelle-Guinée"
+                },
+                "name": "Papouasie-Nouvelle-Guinée",
+                "totalPoints": 997.6,
+                "active": false,
+                "previousRank": 165,
+                "countryURL": "/fifa-world-ranking/PNG",
+                "countryCode": "PNG"
+            },
+            "previousPoints": 990.55,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 163,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BRB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Barbade",
+                    "alt": "Barbade"
+                },
+                "name": "Barbade",
+                "totalPoints": 995.94,
+                "active": false,
+                "previousRank": 163,
+                "countryURL": "/fifa-world-ranking/BRB",
+                "countryCode": "BRB"
+            },
+            "previousPoints": 995.94,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 164,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TAH",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Tahiti",
+                    "alt": "Tahiti"
+                },
+                "name": "Tahiti",
+                "totalPoints": 995.11,
+                "active": false,
+                "previousRank": 159,
+                "countryURL": "/fifa-world-ranking/TAH",
+                "countryCode": "TAH"
+            },
+            "previousPoints": 1014.27,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 165,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/FIJ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Fidji",
+                    "alt": "Fidji"
+                },
+                "name": "Fidji",
+                "totalPoints": 993.37,
+                "active": false,
+                "previousRank": 162,
+                "countryURL": "/fifa-world-ranking/FIJ",
+                "countryCode": "FIJ"
+            },
+            "previousPoints": 996.27,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 166,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/VAN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Vanuatu",
+                    "alt": "Vanuatu"
+                },
+                "name": "Vanuatu",
+                "totalPoints": 990.55,
+                "active": false,
+                "previousRank": 164,
+                "countryURL": "/fifa-world-ranking/VAN",
+                "countryCode": "VAN"
+            },
+            "previousPoints": 995.62,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 167,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BER",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bermudes",
+                    "alt": "Bermudes"
+                },
+                "name": "Bermudes",
+                "totalPoints": 982.43,
+                "active": false,
+                "previousRank": 166,
+                "countryURL": "/fifa-world-ranking/BER",
+                "countryCode": "BER"
+            },
+            "previousPoints": 982.43,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 168,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/NEP",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Népal",
+                    "alt": "Népal"
+                },
+                "name": "Népal",
+                "totalPoints": 978.86,
+                "active": false,
+                "previousRank": 167,
+                "countryURL": "/fifa-world-ranking/NEP",
+                "countryCode": "NEP"
+            },
+            "previousPoints": 982.22,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 169,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MLT",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Malte",
+                    "alt": "Malte"
+                },
+                "name": "Malte",
+                "totalPoints": 971.56,
+                "active": false,
+                "previousRank": 174,
+                "countryURL": "/fifa-world-ranking/MLT",
+                "countryCode": "MLT"
+            },
+            "previousPoints": 958.95,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 170,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GRN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Grenade",
+                    "alt": "Grenade"
+                },
+                "name": "Grenade",
+                "totalPoints": 968.49,
+                "active": false,
+                "previousRank": 169,
+                "countryURL": "/fifa-world-ranking/GRN",
+                "countryCode": "GRN"
+            },
+            "previousPoints": 974.03,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 171,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CAM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Cambodde",
+                    "alt": "Cambodde"
+                },
+                "name": "Cambodde",
+                "totalPoints": 966.61,
+                "active": false,
+                "previousRank": 171,
+                "countryURL": "/fifa-world-ranking/CAM",
+                "countryCode": "CAM"
+            },
+            "previousPoints": 966.61,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 172,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PUR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Porto Rico",
+                    "alt": "Porto Rico"
+                },
+                "name": "Porto Rico",
+                "totalPoints": 962.77,
+                "active": false,
+                "previousRank": 172,
+                "countryURL": "/fifa-world-ranking/PUR",
+                "countryCode": "PUR"
+            },
+            "previousPoints": 962.77,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 173,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BLZ",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Belize",
+                    "alt": "Belize"
+                },
+                "name": "Belize",
+                "totalPoints": 962.21,
+                "active": false,
+                "previousRank": 170,
+                "countryURL": "/fifa-world-ranking/BLZ",
+                "countryCode": "BLZ"
+            },
+            "previousPoints": 967.42,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 174,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GUY",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Guyana",
+                    "alt": "Guyana"
+                },
+                "name": "Guyana",
+                "totalPoints": 961.07,
+                "active": false,
+                "previousRank": 175,
+                "countryURL": "/fifa-world-ranking/GUY",
+                "countryCode": "GUY"
+            },
+            "previousPoints": 958.87,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 175,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/VIN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Saint-Vincent-et-les-Grenadines",
+                    "alt": "Saint-Vincent-et-les-Grenadines"
+                },
+                "name": "Saint-Vincent-et-les-Grenadines",
+                "totalPoints": 960.71,
+                "active": false,
+                "previousRank": 173,
+                "countryURL": "/fifa-world-ranking/VIN",
+                "countryCode": "VIN"
+            },
+            "previousPoints": 960.71,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 176,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LCA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Sainte-Lucie",
+                    "alt": "Sainte-Lucie"
+                },
+                "name": "Sainte-Lucie",
+                "totalPoints": 953.45,
+                "active": false,
+                "previousRank": 177,
+                "countryURL": "/fifa-world-ranking/LCA",
+                "countryCode": "LCA"
+            },
+            "previousPoints": 953.45,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 177,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CUB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Cuba",
+                    "alt": "Cuba"
+                },
+                "name": "Cuba",
+                "totalPoints": 950.91,
+                "active": false,
+                "previousRank": 179,
+                "countryURL": "/fifa-world-ranking/CUB",
+                "countryCode": "CUB"
+            },
+            "previousPoints": 948.96,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 178,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MSR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Montserrat",
+                    "alt": "Montserrat"
+                },
+                "name": "Montserrat",
+                "totalPoints": 950.71,
+                "active": false,
+                "previousRank": 178,
+                "countryURL": "/fifa-world-ranking/MSR",
+                "countryCode": "MSR"
+            },
+            "previousPoints": 950.71,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 179,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MRI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Maurice",
+                    "alt": "Maurice"
+                },
+                "name": "Maurice",
+                "totalPoints": 940.47,
+                "active": false,
+                "previousRank": 176,
+                "countryURL": "/fifa-world-ranking/MRI",
+                "countryCode": "MRI"
+            },
+            "previousPoints": 955.18,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 180,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MDA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Moldavie",
+                    "alt": "Moldavie"
+                },
+                "name": "Moldavie",
+                "totalPoints": 932.79,
+                "active": false,
+                "previousRank": 181,
+                "countryURL": "/fifa-world-ranking/MDA",
+                "countryCode": "MDA"
+            },
+            "previousPoints": 926.85,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 181,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CHA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Tchad",
+                    "alt": "Tchad"
+                },
+                "name": "Tchad",
+                "totalPoints": 931.98,
+                "active": false,
+                "previousRank": 180,
+                "countryURL": "/fifa-world-ranking/CHA",
+                "countryCode": "CHA"
+            },
+            "previousPoints": 935,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 182,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MAC",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Macau",
+                    "alt": "Macau"
+                },
+                "name": "Macau",
+                "totalPoints": 922.1,
+                "active": false,
+                "previousRank": 182,
+                "countryURL": "/fifa-world-ranking/MAC",
+                "countryCode": "MAC"
+            },
+            "previousPoints": 922.1,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 183,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/STP",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Sao Tomé-et-Principe",
+                    "alt": "Sao Tomé-et-Principe"
+                },
+                "name": "Sao Tomé-et-Principe",
+                "totalPoints": 917.62,
+                "active": false,
+                "previousRank": 189,
+                "countryURL": "/fifa-world-ranking/STP",
+                "countryCode": "STP"
+            },
+            "previousPoints": 903.31,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 184,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/DMA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Dominique",
+                    "alt": "Dominique"
+                },
+                "name": "Dominique",
+                "totalPoints": 916.72,
+                "active": false,
+                "previousRank": 183,
+                "countryURL": "/fifa-world-ranking/DMA",
+                "countryCode": "DMA"
+            },
+            "previousPoints": 916.72,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 185,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LAO",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Laos",
+                    "alt": "Laos"
+                },
+                "name": "Laos",
+                "totalPoints": 914.66,
+                "active": false,
+                "previousRank": 187,
+                "countryURL": "/fifa-world-ranking/LAO",
+                "countryCode": "LAO"
+            },
+            "previousPoints": 904.6,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 186,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/MNG",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Mongolie",
+                    "alt": "Mongolie"
+                },
+                "name": "Mongolie",
+                "totalPoints": 911.49,
+                "active": false,
+                "previousRank": 184,
+                "countryURL": "/fifa-world-ranking/MNG",
+                "countryCode": "MNG"
+            },
+            "previousPoints": 916.68,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 187,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BHU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bhoutan",
+                    "alt": "Bhoutan"
+                },
+                "name": "Bhoutan",
+                "totalPoints": 910.96,
+                "active": false,
+                "previousRank": 185,
+                "countryURL": "/fifa-world-ranking/BHU",
+                "countryCode": "BHU"
+            },
+            "previousPoints": 910.96,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 188,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BAN",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bangladesh",
+                    "alt": "Bangladesh"
+                },
+                "name": "Bangladesh",
+                "totalPoints": 903.98,
+                "active": false,
+                "previousRank": 186,
+                "countryURL": "/fifa-world-ranking/BAN",
+                "countryCode": "BAN"
+            },
+            "previousPoints": 907.83,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 189,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ASA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Samoa américaines",
+                    "alt": "Samoa américaines"
+                },
+                "name": "Samoa américaines",
+                "totalPoints": 900.27,
+                "active": false,
+                "previousRank": 190,
+                "countryURL": "/fifa-world-ranking/ASA",
+                "countryCode": "ASA"
+            },
+            "previousPoints": 900.27,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 190,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/COK",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Cook (Iles)",
+                    "alt": "Cook (Iles)"
+                },
+                "name": "Cook (Iles)",
+                "totalPoints": 899.33,
+                "active": false,
+                "previousRank": 190,
+                "countryURL": "/fifa-world-ranking/COK",
+                "countryCode": "COK"
+            },
+            "previousPoints": 0,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 191,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BRU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Brunei",
+                    "alt": "Brunei"
+                },
+                "name": "Brunei",
+                "totalPoints": 898.96,
+                "active": false,
+                "previousRank": 188,
+                "countryURL": "/fifa-world-ranking/BRU",
+                "countryCode": "BRU"
+            },
+            "previousPoints": 903.9,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 192,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/LIE",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Liechtenstein",
+                    "alt": "Liechtenstein"
+                },
+                "name": "Liechtenstein",
+                "totalPoints": 895.08,
+                "active": false,
+                "previousRank": 191,
+                "countryURL": "/fifa-world-ranking/LIE",
+                "countryCode": "LIE"
+            },
+            "previousPoints": 899.52,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 193,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SAM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Samoa",
+                    "alt": "Samoa"
+                },
+                "name": "Samoa",
+                "totalPoints": 894.26,
+                "active": false,
+                "previousRank": 193,
+                "countryURL": "/fifa-world-ranking/SAM",
+                "countryCode": "SAM"
+            },
+            "previousPoints": 894.26,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 194,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/DJI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Djibouti",
+                    "alt": "Djibouti"
+                },
+                "name": "Djibouti",
+                "totalPoints": 875.98,
+                "active": false,
+                "previousRank": 192,
+                "countryURL": "/fifa-world-ranking/DJI",
+                "countryCode": "DJI"
+            },
+            "previousPoints": 896.62,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 195,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/CAY",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Caïmans (Iles)",
+                    "alt": "Caïmans (Iles)"
+                },
+                "name": "Caïmans (Iles)",
+                "totalPoints": 873.64,
+                "active": false,
+                "previousRank": 195,
+                "countryURL": "/fifa-world-ranking/CAY",
+                "countryCode": "CAY"
+            },
+            "previousPoints": 873.64,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 196,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SEY",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Seychelles",
+                    "alt": "Seychelles"
+                },
+                "name": "Seychelles",
+                "totalPoints": 866.94,
+                "active": false,
+                "previousRank": 196,
+                "countryURL": "/fifa-world-ranking/SEY",
+                "countryCode": "SEY"
+            },
+            "previousPoints": 870.63,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 197,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/PAK",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Pakistan",
+                    "alt": "Pakistan"
+                },
+                "name": "Pakistan",
+                "totalPoints": 866.81,
+                "active": false,
+                "previousRank": 197,
+                "countryURL": "/fifa-world-ranking/PAK",
+                "countryCode": "PAK"
+            },
+            "previousPoints": 866.81,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 198,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TLS",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Timor Oriental",
+                    "alt": "Timor Oriental"
+                },
+                "name": "Timor Oriental",
+                "totalPoints": 865.47,
+                "active": false,
+                "previousRank": 198,
+                "countryURL": "/fifa-world-ranking/TLS",
+                "countryCode": "TLS"
+            },
+            "previousPoints": 865.47,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 199,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TGA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Tonga",
+                    "alt": "Tonga"
+                },
+                "name": "Tonga",
+                "totalPoints": 861.81,
+                "active": false,
+                "previousRank": 199,
+                "countryURL": "/fifa-world-ranking/TGA",
+                "countryCode": "TGA"
+            },
+            "previousPoints": 861.81,
+            "tag": {
+                "id": "OFC",
+                "text": "OFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 200,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ARU",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Aruba",
+                    "alt": "Aruba"
+                },
+                "name": "Aruba",
+                "totalPoints": 859.97,
+                "active": false,
+                "previousRank": 200,
+                "countryURL": "/fifa-world-ranking/ARU",
+                "countryCode": "ARU"
+            },
+            "previousPoints": 859.97,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 201,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BAH",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Bahamas",
+                    "alt": "Bahamas"
+                },
+                "name": "Bahamas",
+                "totalPoints": 858.5,
+                "active": false,
+                "previousRank": 201,
+                "countryURL": "/fifa-world-ranking/BAH",
+                "countryCode": "BAH"
+            },
+            "previousPoints": 858.5,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 202,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SOM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Somalie",
+                    "alt": "Somalie"
+                },
+                "name": "Somalie",
+                "totalPoints": 857.39,
+                "active": false,
+                "previousRank": 194,
+                "countryURL": "/fifa-world-ranking/SOM",
+                "countryCode": "SOM"
+            },
+            "previousPoints": 873.71,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 203,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GIB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Gibraltar",
+                    "alt": "Gibraltar"
+                },
+                "name": "Gibraltar",
+                "totalPoints": 857.2,
+                "active": false,
+                "previousRank": 203,
+                "countryURL": "/fifa-world-ranking/GIB",
+                "countryCode": "GIB"
+            },
+            "previousPoints": 853.6,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 204,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/ERI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Erythrée",
+                    "alt": "Erythrée"
+                },
+                "name": "Erythrée",
+                "totalPoints": 855.56,
+                "active": false,
+                "previousRank": 202,
+                "countryURL": "/fifa-world-ranking/ERI",
+                "countryCode": "ERI"
+            },
+            "previousPoints": 855.56,
+            "tag": {
+                "id": "CAF",
+                "text": "CAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 205,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SRI",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Sri Lanka",
+                    "alt": "Sri Lanka"
+                },
+                "name": "Sri Lanka",
+                "totalPoints": 842.93,
+                "active": false,
+                "previousRank": 204,
+                "countryURL": "/fifa-world-ranking/SRI",
+                "countryCode": "SRI"
+            },
+            "previousPoints": 842.93,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 206,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/TCA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Turks et Caicos",
+                    "alt": "Turks et Caicos"
+                },
+                "name": "Turks et Caicos",
+                "totalPoints": 839.84,
+                "active": false,
+                "previousRank": 205,
+                "countryURL": "/fifa-world-ranking/TCA",
+                "countryCode": "TCA"
+            },
+            "previousPoints": 839.84,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 207,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/GUM",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Guam",
+                    "alt": "Guam"
+                },
+                "name": "Guam",
+                "totalPoints": 838.33,
+                "active": false,
+                "previousRank": 206,
+                "countryURL": "/fifa-world-ranking/GUM",
+                "countryCode": "GUM"
+            },
+            "previousPoints": 838.33,
+            "tag": {
+                "id": "AFC",
+                "text": "AFC"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 208,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/VIR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Iles Vierges Américaines",
+                    "alt": "Iles Vierges Américaines"
+                },
+                "name": "Iles Vierges Américaines",
+                "totalPoints": 816.13,
+                "active": false,
+                "previousRank": 207,
+                "countryURL": "/fifa-world-ranking/VIR",
+                "countryCode": "VIR"
+            },
+            "previousPoints": 816.13,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 209,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/VGB",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Iles Vierges Britanniques",
+                    "alt": "Iles Vierges Britanniques"
+                },
+                "name": "Iles Vierges Britanniques",
+                "totalPoints": 812.94,
+                "active": false,
+                "previousRank": 208,
+                "countryURL": "/fifa-world-ranking/VGB",
+                "countryCode": "VGB"
+            },
+            "previousPoints": 812.94,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 210,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/AIA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Anguilla",
+                    "alt": "Anguilla"
+                },
+                "name": "Anguilla",
+                "totalPoints": 792.34,
+                "active": false,
+                "previousRank": 209,
+                "countryURL": "/fifa-world-ranking/AIA",
+                "countryCode": "AIA"
+            },
+            "previousPoints": 792.34,
+            "tag": {
+                "id": "CONCACAF",
+                "text": "CONCACAF"
+            }
+        },
+        {
+            "rankingItem": {
+                "rank": 211,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/SMR",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Saint-Marin",
+                    "alt": "Saint-Marin"
+                },
+                "name": "Saint-Marin",
+                "totalPoints": 776.97,
+                "active": false,
+                "previousRank": 210,
+                "countryURL": "/fifa-world-ranking/SMR",
+                "countryCode": "SMR"
+            },
+            "previousPoints": 780.33,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
+        }
+    ]
+}
