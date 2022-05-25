@@ -1,11 +1,9 @@
 package net.wcapi.back.countryapi;
 
-import java.util.Map;
-
 public class Ranking {
 
     private long rank;
-    private Map<String, Object> flag;
+    private Flag flag;
     private String name;
 
     public long getRank() {
@@ -16,11 +14,11 @@ public class Ranking {
         this.rank = rank;
     }
 
-    public Map<String, Object> getFlag() {
+    public Flag getFlag() {
         return flag;
     }
 
-    public void setFlag(Map<String, Object> flag) {
+    public void setFlag(Flag flag) {
         this.flag = flag;
     }
 
@@ -37,7 +35,6 @@ public class Ranking {
         return "{" +
                 "rank='" + rank + '\'' +
                 ", flag='" + flag + '\'' +
-                ", flag - src='" + flag.get("src") +'\'' +
                 ", name=" + name +
                 '}';
     }
