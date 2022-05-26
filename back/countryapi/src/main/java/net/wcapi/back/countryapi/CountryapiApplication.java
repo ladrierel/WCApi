@@ -22,13 +22,11 @@ public class CountryapiApplication implements CommandLineRunner {
         ObjectMapper objectMapper = new ObjectMapper();
 
         //read json file and convert to customer object
-        Ranking[] rank = objectMapper.readValue(new File("rankingWork.json"), Ranking[].class);
+        Rankings rank = objectMapper.readValue(new File("rankingWork.json"), Rankings.class);
 
         //print rank details
-        //System.out.println(customer[0]);
-        //System.out.println(customer[1]);
-		System.out.println(rank[0]);
-		System.out.println(rank[1]);
+		System.out.println(rank);
+		// System.out.println(rank[1]);
     }
 
 }
