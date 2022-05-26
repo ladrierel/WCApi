@@ -1,36 +1,50 @@
 {
     "rankings": [
         {
-            "rank": 1,
-            "flag": {
-                "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BRA",
-                "width": 70,
-                "height": 46,
-                "title": "Brésil",
-                "alt": "Brésil"
+            "rankingItem": {
+                "rank": 1,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BRA",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Brésil",
+                    "alt": "Brésil"
+                },
+                "name": "Brésil",
+                "totalPoints": 1832.69,
+                "active": false,
+                "previousRank": 2,
+                "countryURL": "/fifa-world-ranking/BRA",
+                "countryCode": "BRA"
             },
-            "name": "Brésil",
-            "totalPoints": 1832.69,
-            "active": false,
-            "previousRank": 2,
-            "countryURL": "/fifa-world-ranking/BRA",
-            "countryCode": "BRA"
+            "previousPoints": 1823.42,
+            "tag": {
+                "id": "CONMEBOL",
+                "text": "CONMEBOL"
+            }
         },
         {
-            "rank": 2,
-            "flag": {
-                "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BEL",
-                "width": 70,
-                "height": 46,
-                "title": "Belgique",
-                "alt": "Belgique"
+            "rankingItem": {
+                "rank": 2,
+                "flag": {
+                    "src": "https://api.fifa.com/api/v1/picture/flags-sq-2/BEL",
+                    "width": 70,
+                    "height": 46,
+                    "title": "Belgique",
+                    "alt": "Belgique"
+                },
+                "name": "Belgique",
+                "totalPoints": 1827,
+                "active": false,
+                "previousRank": 1,
+                "countryURL": "/fifa-world-ranking/BEL",
+                "countryCode": "BEL"
             },
-            "name": "Belgique",
-            "totalPoints": 1827,
-            "active": false,
-            "previousRank": 1,
-            "countryURL": "/fifa-world-ranking/BEL",
-            "countryCode": "BEL"
+            "previousPoints": 1828.45,
+            "tag": {
+                "id": "UEFA",
+                "text": "UEFA"
+            }
         }
     ]
 }

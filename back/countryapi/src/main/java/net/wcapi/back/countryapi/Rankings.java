@@ -4,13 +4,13 @@ import java.util.List;
 
 public class Rankings {
 
-    private List<RankingItem> rankings;
+    private List<Ranking> rankings;
     
-    public List<RankingItem> getRankings() {
+    public List<Ranking> getRankings() {
         return rankings;
     }
 
-    public void setRankings(List<RankingItem> rankings) {
+    public void setRankings(List<Ranking> rankings) {
         this.rankings = rankings;
     }
 
