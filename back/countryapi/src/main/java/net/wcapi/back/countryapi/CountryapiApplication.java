@@ -1,6 +1,7 @@
 package net.wcapi.back.countryapi;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -32,7 +33,7 @@ public class CountryapiApplication implements CommandLineRunner {
 
         //print rank details as Debug
         LOGGER.log(Level.INFO, "Get the Mapping for JSON file ranking.json");
-        LOGGER.log(Level.INFO, "rank" + rank.toString());
+        //LOGGER.log(Level.INFO, "rank" + rank.toString());
         LOGGER.log(Level.INFO, "rank index 0" + rank.getRankings().get(0).toString());
         LOGGER.log(Level.INFO, "rank index 1" + rank.getRankings().get(1).toString());
 
